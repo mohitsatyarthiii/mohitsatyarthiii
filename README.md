@@ -40,7 +40,7 @@ Whether it’s a portfolio, a dashboard, or an AI tool — it should feel like y
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/mohitsatyarthii)
-- 🖥️ [Portfolio Website](https://mohitsatyarthii.netlify.app)
+- 🖥️ [Portfolio Website](https://mohitcreations.netlify.app)
 - 📧 Email: mohitsatyarthi11@gmail.com
 
 ---
