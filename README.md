@@ -23,6 +23,7 @@
 ```yaml
 name: Mohit Satyarthi
 title: Chief Technology Officer
+compnay: Esyglob.com
 location: India
 mindset: |
   "Build systems that think.
