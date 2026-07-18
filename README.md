@@ -7,16 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=Mohit+Satyarthi+%7C+CTO+%26+Systems+Architect;Full-Stack+%2B+AI+%2B+Immersive+UI;Building+the+Future%2C+One+Repo+at+a+Time" alt="Header Typing SVG" />
 </div>
 
-<br />
-┌──────────────────────────────────────────────┐
-│ 🧠 SYSTEMS ARCHITECT │ 🧬 FULL-STACK │
-│ ⚡ AI/ML INTEGRATION │ 🌐 CLOUD-NATIVE │
-│ 🎯 MOBILE + WEB │ 🛡️ SCALABLE INFRA │
-└──────────────────────────────────────────────┘
 
-<br />
-
----
 
 ## ⚙️ `whoami`
 
@@ -71,14 +62,14 @@ GenAI Content Engine	Python, LangChain, Pinecone	🧪 R&D
 bash
 🌍 Portfolio  : https://mohitcreations.netlify.app
 💼 LinkedIn   : linkedin.com/in/mohitsatyarthii
-📧 E-Mail     : mohitsatyarthi11@gmail.com
+📧 E-Mail     : mohitsatyarthi@outlook.com
 🧪 Labs       : (coming soon — internal tools & experiments)
 🧬 System Log
 text
 [2024] Scaled backend infra to handle 1M+ concurrent requests.
 [2024] Built proprietary AI pipelines for enterprise clients.
 [2025] Designing multi-agent systems with Flutter + FastAPI + LLMs.
-[2025] CTO at Esyglob.com — redefining human-computer interaction.
+[2026] CTO at Esyglob.com — redefining human-computer interaction.
 ⚡ Terminal Philosophy
 “Code is not just instructions. It’s consciousness frozen in logic.
 When I build, I’m not just engineering — I’m waking something up.”
