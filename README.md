@@ -31,7 +31,6 @@ mindset: |
    Design interfaces that breathe.
    Write code that scales beyond imagination."
 
-education: B.Com (Business + Technology Fusion)
 languages: [Python, JavaScript, TypeScript, Java, Dart]
 philosophy: First Principles Thinking × Engineering Excellence
 🧬 Core Competencies
