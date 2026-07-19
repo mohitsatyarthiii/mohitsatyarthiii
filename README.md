@@ -1,288 +1,327 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,25:312e81,50:7c3aed,75:9333ea,100:0f172a&text=MOHIT%20SATYARTHI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20AI%20Products%20%E2%80%A2%20System%20Architecture%20%E2%80%A2%20Full%20Stack%20Engineering&descAlignY=60"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:312e81,50:7c3aed,75:9333ea,100:0f172a&text=MOHIT%20SATYARTHI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%7C%20Systems%20Architect%20%7C%20AI%20Engineer&descAlignY=58&descSize=18"/>
 
 # Mohit Satyarthi
 
-### Building products that scale, not just projects that work.
+### CTO & Systems Architect — Building the Future, One System at a Time
 
 <p>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+Products+%E2%80%A2+Marketplace+Architecture;Full+Stack+Engineering;Node.js+%7C+React+%7C+Next.js+%7C+MongoDB;Performance+First+Backend+Systems;Designing+Scalable+Software;Always+Shipping."/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineering+%E2%80%A2+LLMs+%26+RAG+Systems;Full+Stack+Architecture+%E2%80%A2+React+%7C+Node+%7C+Python;Scalable+Backend+%E2%80%A2+Microservices+%7C+Cloud+Native;Flutter+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%7C+Java;Performance+First+Systems+%E2%80%A2+Always+Building."/>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=mohitsatyarthiii&style=for-the-badge&color=7c3aed"/>
+<img src="https://komarev.com/ghpvc/?username=mohitsatyarthiii&style=for-the-badge&color=7c3aed&label=Profile+Views"/>
 
 </div>
 
 ---
 
-# About
+# 🧠 About
 
-I build production-grade software focused on **AI**, **marketplace platforms**, **automation**, **backend architecture**, and **modern web applications**.
+I'm a **CTO & Systems Architect** with deep expertise in building **production-grade AI platforms**, **scalable marketplace architecture**, and **enterprise automation systems**.
 
-My engineering philosophy is simple:
+**Polyglot Engineer** — Fluent in Python, JavaScript, TypeScript, Java, and Dart. I architect systems that don't just work — they **scale, think, and evolve**.
 
-> **Build once. Scale forever.**
+> **"Build once. Scale forever. Think always."**
 
-I enjoy transforming ambitious product ideas into systems that are performant, maintainable, secure, and designed for long-term growth.
-
----
-
-# Engineering Principles
-
-```text
-✓ Architecture over shortcuts
-
-✓ Performance over unnecessary complexity
-
-✓ Security by design
-
-✓ Developer experience matters
-
-✓ Pixel-perfect interfaces
-
-✓ Systems that scale with users
-
-✓ Code that remains readable after years
-```
+I combine **commerce background** with **engineering excellence** to build products that are not just technically superior, but also business-aligned and user-centric.
 
 ---
 
-# Current Focus
+# 🧬 Engineering DNA
 
-```bash
+
+✓ Architecture over shortcuts — Design patterns that stand the test of time
+
+✓ Performance over unnecessary complexity — Every millisecond counts
+
+✓ Security by design — Zero-trust architecture from day one
+
+✓ AI-First thinking — Intelligence embedded, not bolted on
+
+✓ Developer experience matters — Clean code, clear docs, seamless DX
+
+✓ Pixel-perfect interfaces — Where engineering meets art
+
+✓ Systems that scale with users — Horizontal scaling, not vertical panic
+
+✓ Code that remains readable after years — Write for the future you
+
 > whoami
 
 Mohit Satyarthi
 
-> role
+> title
 
-Full Stack Engineer
+Chief Technology Officer
 
 > building
 
-AI Platforms
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+AI-Powered Platforms (LLMs, RAG, Agents)
 Enterprise B2B Marketplaces
-Automation Systems
-Scalable Backend Infrastructure
+Intelligent Automation Systems
+Cloud-Native Backend Infrastructure
+Cross-Platform Mobile Solutions (Flutter)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 > status
 
-██████████████████░░  Building...
-```
+████████████████████░░░  Building the future...
 
----
+> uptime
 
-# Tech Stack
+99.99% — Always shipping, always learning
 
+🛠️ Technology Arsenal
 <div align="center">
+Languages
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,java,dart,cpp&theme=dark"/>
+Frontend & Mobile
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,html,css,tailwind,redux&theme=dark"/>
+Backend & APIs
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,graphql,prisma&theme=dark"/>
+AI & Machine Learning
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark"/>
+Databases & Caching
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis,firebase,mysql&theme=dark"/>
+Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,nginx,githubactions,terraform&theme=dark"/>
+Tools & Design
+<img src="https://skillicons.dev/icons?i=git,github,vercel,figma,vscode,postman&theme=dark"/></div>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,redis,typescript,javascript,tailwind,docker,linux,nginx,git,github,vercel,cloudflare,firebase,supabase,figma"/>
 
-</div>
+🧠 AI & ML Stack Deep Dive
 
----
+AI Engineering:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - AI Agents & Autonomous Systems
+  - Prompt Engineering & Fine-tuning
+  - Vector Databases (Pinecone, ChromaDB, Weaviate)
 
-# What I Love Building
+Frameworks & Libraries:
+  - TensorFlow, PyTorch, Keras
+  - LangChain, LlamaIndex
+  - Hugging Face Transformers
+  - Scikit-learn, Pandas, NumPy
+  - OpenAI API, Gemini API, Claude API
 
-```text
-Artificial Intelligence
+Applications:
+  - Intelligent Search & Recommendation
+  - Document Understanding & Q&A
+  - Code Generation & Review Assistants
+  - Business Process Automation
+  - Predictive Analytics & Forecasting
 
-███████████████████████████████████
+  🚀 What I Build
 
-Enterprise Platforms
+  AI-Powered Platforms
+██████████████████████████████████████████████████
 
-███████████████████████████████████
+Enterprise Marketplaces
+██████████████████████████████████████████████████
 
-Backend Architecture
+Backend Architecture & Microservices
+██████████████████████████████████████████████████
 
-███████████████████████████████████
+Cross-Platform Mobile Apps (Flutter)
+██████████████████████████████████████████████████
 
-Marketplace Systems
+Automation & Workflow Systems
+██████████████████████████████████████████████████
 
-███████████████████████████████████
+Modern UI/UX Engineering
+██████████████████████████████████████████████████
 
-Automation
+Cloud Infrastructure & DevOps
+██████████████████████████████████████████████████
 
-███████████████████████████████████
 
-Modern UI Engineering
+🏗️ System Architecture Blueprint
 
-███████████████████████████████████
-```
+                    ┌─────────────────────────┐
+                    │    Client Applications   │
+                    │  React • Next.js • Flutter│
+                    └───────────┬─────────────┘
+                                │
+                    ┌───────────▼─────────────┐
+                    │     API Gateway (REST/   │
+                    │   GraphQL/WebSocket)     │
+                    └───────────┬─────────────┘
+                                │
+        ┌───────────────────────┼───────────────────────┐
+        │                       │                       │
+┌───────▼───────┐   ┌───────────▼───────────┐   ┌───────▼───────┐
+│  Microservices │   │    AI/ML Pipeline     │   │  Auth Service  │
+│  Node • Python │   │  TensorFlow • PyTorch │   │  OAuth • JWT   │
+│  Java • Spring │   │  LLMs • RAG • Agents  │   │  RBAC • 2FA    │
+└───────┬───────┘   └───────────┬───────────┘   └───────┬───────┘
+        │                       │                       │
+        └───────────────────────┼───────────────────────┘
+                                │
+        ┌───────────────────────┼───────────────────────┐
+        │                       │                       │
+┌───────▼───────┐   ┌───────────▼───────────┐   ┌───────▼───────┐
+│   MongoDB     │   │    PostgreSQL         │   │    Redis      │
+│   NoSQL       │   │    Relational         │   │    Cache      │
+└───────────────┘   └───────────────────────┘   └───────────────┘
 
----
+                    ┌─────────────────────────┐
+                    │   Docker • Kubernetes   │
+                    │   AWS • CI/CD Pipeline  │
+                    └─────────────────────────┘
 
-# Engineering Workflow
 
-```text
-            Product Idea
-                  │
-                  ▼
-        System Architecture
-                  │
-                  ▼
-          Backend Services
-                  │
-                  ▼
-        Database Design
-                  │
-                  ▼
-        API Development
-                  │
-                  ▼
-      Frontend Engineering
-                  │
-                  ▼
-      Testing & Optimization
-                  │
-                  ▼
-       Production Deployment
-```
 
----
 
-# GitHub Analytics
+🔥 Signature Projects
+🚀 Project	🛠️ Tech Stack	📡 Status	🎯 Impact
+AI Analytics Platform	React, Node, Python, OpenAI, MongoDB	🟢 Production	10K+ users
+Enterprise Marketplace	Next.js, FastAPI, PostgreSQL, Redis	🟡 Beta	B2B focused
+Flutter Fintech Suite	Flutter, Firebase, Spring Boot	🔒 Stealth	Mobile-first
+GenAI Content Engine	Python, LangChain, Pinecone, AWS	🧪 R&D	AI-native
+Real-Time Collab IDE	Next.js, WebSocket, Redis	🔒 Private	Dev tools
 
+
+📊 GitHub Analytics
+
+<div align="center"><img height="190em" src="https://github-readme-stats.vercel.app/api?username=mohitsatyarthiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Stats"/><img height="190em" src="https://streak-stats.demolab.com?user=mohitsatyarthiii&theme=tokyonight&hide_border=true"/></div><div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsatyarthiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Language+Distribution"/></div>
+
+📈 Contribution Graph
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsatyarthiii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Timeline"/></div>
+
+
+🎯 Core Engineering Domains
+<table> <tr> <td width="33%">
+            
+🧠 AI Engineering
+LLMs & RAG Systems
+
+AI Agents & Automation
+
+Intelligent Search
+
+Recommendation Engines
+
+Predictive Analytics
+
+NLP & Computer Vision
+
+</td> <td width="33%">
+
+            
+⚙️ Backend Systems
+Microservices Architecture
+
+REST & GraphQL APIs
+
+Authentication & Authorization
+
+Database Design & Optimization
+
+Caching Strategies
+
+Message Queues (RabbitMQ, Kafka)
+
+</td> <td width="33%">
+
+            
+🎨 Frontend & Mobile
+React & Next.js Ecosystem
+
+Flutter Cross-Platform
+
+Responsive Design Systems
+
+State Management
+
+Performance Optimization
+
+Animation & Micro-interactions
+
+</td> </tr> <tr> <td>
+☁️ Cloud & DevOps
+AWS (EC2, Lambda, S3, RDS)
+
+Docker & Containerization
+
+Kubernetes Orchestration
+
+CI/CD Pipelines
+
+Infrastructure as Code
+
+Monitoring & Logging
+
+</td> <td>
+🗄️ Data Engineering
+MongoDB & PostgreSQL
+
+Redis & Memcached
+
+Data Modeling
+
+ETL Pipelines
+
+Real-time Analytics
+
+Data Warehousing
+
+</td> <td>
+🔐 Security
+OAuth 2.0 & JWT
+
+Role-Based Access Control
+
+API Security
+
+Data Encryption
+
+OWASP Best Practices
+
+Security Audits
+
+</td> </tr> </table>
+
+💡 Engineering Philosophy
+
+python
+class MohitSatyarthi:
+    def __init__(self):
+        self.name = "Mohit Satyarthi"
+        self.role = "CTO & Systems Architect"
+        self.education = "B.Com (Commerce + Technology)"
+        self.languages = ["Python", "JavaScript", "TypeScript", "Java", "Dart"]
+        self.specialization = ["AI/ML", "System Design", "Full-Stack", "Cloud"]
+        self.mission = "Engineer systems that outlive me"
+        self.philosophy = "Build once. Scale forever. Think always."
+
+    def build_product(self, idea):
+        architecture = self.design_system(idea)
+        backend = self.engineer_services(architecture)
+        ai_layer = self.integrate_intelligence(backend)
+        frontend = self.craft_experience(ai_layer)
+        infrastructure = self.deploy_and_scale(frontend)
+        return infrastructure  # Production-ready, scalable system
+
+    def daily_mantra(self):
+        return "Code is poetry. Architecture is philosophy. Systems are legacy."
+📡 Production Philosophy
+"Great software isn't measured by the amount of code written.
+It's measured by how effortlessly it scales,
+how securely it operates,
+and how beautifully it performs under pressure."
+
+🌐 Connect & Collaborate
+<div align="center"><a href="https://linkedin.com/in/mohitsatyarthii"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a><a href="https://mohitcreations.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a><a href="mailto:mohitsatyarthi11@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a><a href="https://github.com/mohitsatyarthiii"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a></div>
 <div align="center">
+🚀 Open for CTO Advisory | System Architecture Consulting | High-Impact Engineering Collaborations
 
-<img height="185em" src="https://github-readme-stats.vercel.app/api?username=mohitsatyarthiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Analytics"/>
+"Commerce Graduate by degree. Engineer by passion. CTO by design."
 
-<img height="185em" src="https://streak-stats.demolab.com?user=mohitsatyarthiii&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsatyarthiii&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsatyarthiii&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=mohitsatyarthiii&theme=tokyonight&margin-w=15&no-frame=true&column=4"/>
-
-</div>
-
----
-
-# Featured Engineering Areas
-
-<table>
-
-<tr>
-
-<td width="50%">
-
-### AI Engineering
-
-- AI Products
-- AI Agents
-- Search Systems
-- Recommendation Engines
-- Automation
-
-</td>
-
-<td width="50%">
-
-### Backend Engineering
-
-- REST APIs
-- Authentication
-- Database Design
-- Caching
-- Performance
-- Scalability
-
-</td>
-
-</tr>
-
-<tr>
-
-<td>
-
-### Frontend Engineering
-
-- React
-- Next.js
-- Responsive UI
-- Modern Design Systems
-- Animations
-
-</td>
-
-<td>
-
-### DevOps
-
-- Linux
-- Docker
-- GitHub
-- Vercel
-- Cloud Deployments
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Philosophy
-
-> Great software isn't defined by the amount of code written.
-
-> It's defined by how effortlessly it scales.
-
----
-
-# Connect
-
-<div align="center">
-
-<a href="https://linkedin.com/in/mohitsatyarthii">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://mohitcreations.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="mailto:mohitsatyarthi11@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## Building products that users trust and engineers enjoy maintaining.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,25:312e81,50:7c3aed,75:9333ea,100:0f172a"/>
-
-</div>
-````
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,25:312e81,50:7c3aed,75:9333ea,100:0f172a"/></div> 
