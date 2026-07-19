@@ -26,11 +26,14 @@
 
 # <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> About
 
-I'm a **Full Stack Engineer** focused on building **AI-powered products**, **scalable backend systems**, and **high-performance applications**.
+I design and build **AI-native platforms**, **large-scale distributed systems**, and **production-grade software** that prioritize performance, reliability, and long-term scalability.
 
-From modern web platforms to mobile apps and AI integrations, I enjoy turning complex ideas into production-ready software that is fast, reliable, and built to scale.
+My expertise spans **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **AI agents**, **backend architecture**, **cloud-native applications**, and **cross-platform development** using **Python, Java, TypeScript, JavaScript, and Dart**. I enjoy solving complex engineering challenges by combining modern AI with robust software architecture.
 
-> *"Great software isn't just built — it's engineered to last."*
+Whether it's architecting intelligent marketplaces, building enterprise automation platforms, optimizing high-performance APIs, or designing scalable mobile and web applications, my focus is always the same—creating systems that are secure, maintainable, and built for growth.
+
+> *"Great engineering isn't measured by the code you write today—it's measured by the systems that continue to scale, evolve, and create value for years to come."*
+
 
 ---
 
