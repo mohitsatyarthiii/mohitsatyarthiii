@@ -222,13 +222,6 @@ Real-Time Collab IDE	Next.js, WebSocket, Redis	🔒 Private	Dev tools
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitsatyarthiii&theme=tokyonight"/>
 
-<br><br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitsatyarthiii&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitsatyarthiii&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitsatyarthiii&theme=tokyonight"/>
 
 <br><br>
 
