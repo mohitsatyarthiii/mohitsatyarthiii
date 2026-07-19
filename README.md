@@ -1,53 +1,51 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f172a,25:312e81,50:7c3aed,75:9333ea,100:0f172a&text=MOHIT%20SATYARTHI&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=CTO%20%7C%20Systems%20Architect%20%7C%20AI%20Engineer&descAlignY=58&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:0F172A,20:312E81,45:6D28D9,70:9333EA,100:0F172A&text=MOHIT%20SATYARTHI&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=34&desc=Building%20Scalable%20AI%20Products%20%7C%20Full%20Stack%20Architect%20%7C%20System%20Designer&descSize=18&descAlignY=58"/>
 
-# Mohit Satyarthi
+<br>
 
-### CTO & Systems Architect — Building the Future, One System at a Time
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=A855F7&center=true&vCenter=true&width=950&lines=Building+AI+Products+for+Millions;Designing+Scalable+System+Architecture;Full+Stack+Engineer+%7C+Backend+Specialist;Flutter+%E2%80%A2+Next.js+%E2%80%A2+Node.js+%E2%80%A2+Python;Performance.+Security.+Scalability.;Always+Building+Something+Meaningful."/>
 
-<p>
+<br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=900&lines=AI+%2F+ML+Engineering+%E2%80%A2+LLMs+%26+RAG+Systems;Full+Stack+Architecture+%E2%80%A2+React+%7C+Node+%7C+Python;Scalable+Backend+%E2%80%A2+Microservices+%7C+Cloud+Native;Flutter+%E2%80%A2+Next.js+%E2%80%A2+TypeScript+%7C+Java;Performance+First+Systems+%E2%80%A2+Always+Building."/>
+<img src="https://img.shields.io/badge/AI%20Engineer-8B5CF6?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/System%20Architect-2563EB?style=for-the-badge"/>
 
-<img src="https://komarev.com/ghpvc/?username=mohitsatyarthiii&style=for-the-badge&color=7c3aed&label=Profile+Views"/>
+<img src="https://img.shields.io/badge/Full%20Stack-06B6D4?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20Source-10B981?style=for-the-badge"/>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=mohitsatyarthiii&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-# 🧠 About
+# <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="28"> About
 
-I'm a **CTO & Systems Architect** with deep expertise in building **production-grade AI platforms**, **scalable marketplace architecture**, and **enterprise automation systems**.
+I'm a **Full Stack Engineer** focused on building **AI-powered products**, **scalable backend systems**, and **high-performance applications**.
 
-**Polyglot Engineer** — Fluent in Python, JavaScript, TypeScript, Java, and Dart. I architect systems that don't just work — they **scale, think, and evolve**.
+From modern web platforms to mobile apps and AI integrations, I enjoy turning complex ideas into production-ready software that is fast, reliable, and built to scale.
 
-> **"Build once. Scale forever. Think always."**
-
-I combine **commerce background** with **engineering excellence** to build products that are not just technically superior, but also business-aligned and user-centric.
+> *"Great software isn't just built — it's engineered to last."*
 
 ---
 
 # 🧬 Engineering DNA
 
 
-✓ Architecture over shortcuts — Design patterns that stand the test of time
-
-✓ Performance over unnecessary complexity — Every millisecond counts
-
-✓ Security by design — Zero-trust architecture from day one
-
-✓ AI-First thinking — Intelligence embedded, not bolted on
-
-✓ Developer experience matters — Clean code, clear docs, seamless DX
-
-✓ Pixel-perfect interfaces — Where engineering meets art
-
-✓ Systems that scale with users — Horizontal scaling, not vertical panic
-
-✓ Code that remains readable after years — Write for the future you
+╭──────────────────────────────────────────────────────────────╮
+│  Architecture First                                          │
+│  Performance Driven                                          │
+│  Security by Design                                          │
+│  AI-Native Development                                       │
+│  Clean & Maintainable Code                                   │
+│  Scalable System Thinking                                    │
+│  Pixel Perfect Experiences                                   │
+╰──────────────────────────────────────────────────────────────╯
 
 > whoami
 
