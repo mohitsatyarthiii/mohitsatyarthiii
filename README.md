@@ -36,47 +36,60 @@ Whether it's architecting intelligent marketplaces, building enterprise automati
 
 
 ---
+# 🧬 Engineering Principles
 
-# 🧬 Engineering DNA
+```text
+╭──────────────────────────────────────────────────────────────────────╮
+│  ◉ Architecture over Complexity                                     │
+│  ◉ Performance without Compromise                                   │
+│  ◉ Security Built-In, Never Bolted-On                               │
+│  ◉ AI-Native & Automation-First Systems                             │
+│  ◉ Scalable Distributed Architecture                                │
+│  ◉ Clean, Maintainable & Observable Code                            │
+│  ◉ Developer Experience Matters                                     │
+│  ◉ Engineering for the Next 10 Million Users                        │
+╰──────────────────────────────────────────────────────────────────────╯
+```
 
-
-╭──────────────────────────────────────────────────────────────╮
-│  Architecture First                                          │
-│  Performance Driven                                          │
-│  Security by Design                                          │
-│  AI-Native Development                                       │
-│  Clean & Maintainable Code                                   │
-│  Scalable System Thinking                                    │
-│  Pixel Perfect Experiences                                   │
-╰──────────────────────────────────────────────────────────────╯
-
+```console
 > whoami
 
 Mohit Satyarthi
 
-> title
+> role
 
-Chief Technology Officer
+AI Engineer • Full Stack Engineer • Systems Architect
 
-> building
+> engineering_focus
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-AI-Powered Platforms (LLMs, RAG, Agents)
-Enterprise B2B Marketplaces
-Intelligent Automation Systems
-Cloud-Native Backend Infrastructure
-Cross-Platform Mobile Solutions (Flutter)
+◉ AI Systems (LLMs • RAG • AI Agents)
+◉ Scalable Backend & Distributed Architecture
+◉ Enterprise B2B Marketplace Platforms
+◉ Intelligent Workflow Automation
+◉ Cross-Platform Mobile Applications
+◉ Cloud Infrastructure & DevOps
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+> current_mission
+
+Designing software that is intelligent, scalable, secure, and built for long-term growth.
+
+> core_principles
+
+Architecture • Performance • Security • Reliability • Simplicity
 
 > status
 
-████████████████████░░░  Building the future...
+██████████████████████░░  Shipping the next generation of software...
 
-> uptime
+> philosophy
 
-99.99% — Always shipping, always learning
+"Build systems that scale. Engineer solutions that last."
+```
+
 
 ## ⚡ Tech Arsenal
 
@@ -94,86 +107,72 @@ Cross-Platform Mobile Solutions (Flutter)
 </div>
 
 
-🧠 AI & ML Stack Deep Dive
+# 🧠 AI Engineering
 
-AI Engineering:
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - AI Agents & Autonomous Systems
-  - Prompt Engineering & Fine-tuning
-  - Vector Databases (Pinecone, ChromaDB, Weaviate)
+```yaml
+Core Expertise:
+  • Large Language Models (LLMs)
+  • Retrieval-Augmented Generation (RAG)
+  • AI Agents & Multi-Agent Workflows
+  • Prompt Engineering
+  • AI Search & Knowledge Systems
 
-Frameworks & Libraries:
-  - TensorFlow, PyTorch, Keras
-  - LangChain, LlamaIndex
-  - Hugging Face Transformers
-  - Scikit-learn, Pandas, NumPy
-  - OpenAI API, Gemini API, Claude API
+Ecosystem:
+  • OpenAI • Gemini • Claude • Ollama
+  • LangChain • LlamaIndex
+  • Vector Search & Embeddings
+  • MCP • AI Automation
 
 Applications:
-  - Intelligent Search & Recommendation
-  - Document Understanding & Q&A
-  - Code Generation & Review Assistants
-  - Business Process Automation
-  - Predictive Analytics & Forecasting
+  • AI Assistants
+  • Enterprise Automation
+  • Intelligent Search
+  • Document Intelligence
+  • Recommendation Systems
+```
 
-  🚀 What I Build
+# 🚀 What I Build
 
-  AI-Powered Platforms
-██████████████████████████████████████████████████
+```text
+▰▰▰▰▰ AI-Powered Products
 
-Enterprise Marketplaces
-██████████████████████████████████████████████████
+▰▰▰▰▰ Enterprise Marketplace Platforms
 
-Backend Architecture & Microservices
-██████████████████████████████████████████████████
+▰▰▰▰▰ Scalable Backend Systems
 
-Cross-Platform Mobile Apps (Flutter)
-██████████████████████████████████████████████████
+▰▰▰▰▰ AI Agents & Automation
 
-Automation & Workflow Systems
-██████████████████████████████████████████████████
+▰▰▰▰▰ Cross-Platform Mobile Apps
 
-Modern UI/UX Engineering
-██████████████████████████████████████████████████
+▰▰▰▰▰ Cloud-Native Infrastructure
 
-Cloud Infrastructure & DevOps
-██████████████████████████████████████████████████
+▰▰▰▰▰ High-Performance APIs
+```
 
 
-🏗️ System Architecture Blueprint
+# 🏗 Architecture Mindset
 
-                    ┌─────────────────────────┐
-                    │    Client Applications   │
-                    │  React • Next.js • Flutter│
-                    └───────────┬─────────────┘
-                                │
-                    ┌───────────▼─────────────┐
-                    │     API Gateway (REST/   │
-                    │   GraphQL/WebSocket)     │
-                    └───────────┬─────────────┘
-                                │
-        ┌───────────────────────┼───────────────────────┐
-        │                       │                       │
-┌───────▼───────┐   ┌───────────▼───────────┐   ┌───────▼───────┐
-│  Microservices │   │    AI/ML Pipeline     │   │  Auth Service  │
-│  Node • Python │   │  TensorFlow • PyTorch │   │  OAuth • JWT   │
-│  Java • Spring │   │  LLMs • RAG • Agents  │   │  RBAC • 2FA    │
-└───────┬───────┘   └───────────┬───────────┘   └───────┬───────┘
-        │                       │                       │
-        └───────────────────────┼───────────────────────┘
-                                │
-        ┌───────────────────────┼───────────────────────┐
-        │                       │                       │
-┌───────▼───────┐   ┌───────────▼───────────┐   ┌───────▼───────┐
-│   MongoDB     │   │    PostgreSQL         │   │    Redis      │
-│   NoSQL       │   │    Relational         │   │    Cache      │
-└───────────────┘   └───────────────────────┘   └───────────────┘
+```text
+              Client Applications
+        React • Next.js • Flutter
 
-                    ┌─────────────────────────┐
-                    │   Docker • Kubernetes   │
-                    │   AWS • CI/CD Pipeline  │
-                    └─────────────────────────┘
+                    │
+                    ▼
+
+           API Gateway / Services
+
+                    │
+
+   AI Layer • Business Logic • Auth
+
+                    │
+
+ MongoDB • PostgreSQL • Redis
+
+                    │
+
+ Docker • Linux • Cloud • CI/CD
+```
 
 
 
@@ -189,138 +188,210 @@ Real-Time Collab IDE	Next.js, WebSocket, Redis	🔒 Private	Dev tools
 
 📊 GitHub Analytics
 
-<div align="center"><img height="190em" src="https://github-readme-stats.vercel.app/api?username=mohitsatyarthiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub+Stats"/><img height="190em" src="https://streak-stats.demolab.com?user=mohitsatyarthiii&theme=tokyonight&hide_border=true"/></div><div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsatyarthiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&custom_title=Language+Distribution"/></div>
-
-📈 Contribution Graph
-<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsatyarthiii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution+Timeline"/></div>
-
-
-🎯 Core Engineering Domains
-<table> <tr> <td width="33%">
-            
-🧠 AI Engineering
-LLMs & RAG Systems
-
-AI Agents & Automation
-
-Intelligent Search
-
-Recommendation Engines
-
-Predictive Analytics
-
-NLP & Computer Vision
-
-</td> <td width="33%">
-
-            
-⚙️ Backend Systems
-Microservices Architecture
-
-REST & GraphQL APIs
-
-Authentication & Authorization
-
-Database Design & Optimization
-
-Caching Strategies
-
-Message Queues (RabbitMQ, Kafka)
-
-</td> <td width="33%">
-
-            
-🎨 Frontend & Mobile
-React & Next.js Ecosystem
-
-Flutter Cross-Platform
-
-Responsive Design Systems
-
-State Management
-
-Performance Optimization
-
-Animation & Micro-interactions
-
-</td> </tr> <tr> <td>
-☁️ Cloud & DevOps
-AWS (EC2, Lambda, S3, RDS)
-
-Docker & Containerization
-
-Kubernetes Orchestration
-
-CI/CD Pipelines
-
-Infrastructure as Code
-
-Monitoring & Logging
-
-</td> <td>
-🗄️ Data Engineering
-MongoDB & PostgreSQL
-
-Redis & Memcached
-
-Data Modeling
-
-ETL Pipelines
-
-Real-time Analytics
-
-Data Warehousing
-
-</td> <td>
-🔐 Security
-OAuth 2.0 & JWT
-
-Role-Based Access Control
-
-API Security
-
-Data Encryption
-
-OWASP Best Practices
-
-Security Audits
-
-</td> </tr> </table>
-
-💡 Engineering Philosophy
-
-python
-class MohitSatyarthi:
-    def __init__(self):
-        self.name = "Mohit Satyarthi"
-        self.role = "CTO & Systems Architect"
-        self.education = "B.Com (Commerce + Technology)"
-        self.languages = ["Python", "JavaScript", "TypeScript", "Java", "Dart"]
-        self.specialization = ["AI/ML", "System Design", "Full-Stack", "Cloud"]
-        self.mission = "Engineer systems that outlive me"
-        self.philosophy = "Build once. Scale forever. Think always."
-
-    def build_product(self, idea):
-        architecture = self.design_system(idea)
-        backend = self.engineer_services(architecture)
-        ai_layer = self.integrate_intelligence(backend)
-        frontend = self.craft_experience(ai_layer)
-        infrastructure = self.deploy_and_scale(frontend)
-        return infrastructure  # Production-ready, scalable system
-
-    def daily_mantra(self):
-        return "Code is poetry. Architecture is philosophy. Systems are legacy."
-📡 Production Philosophy
-"Great software isn't measured by the amount of code written.
-It's measured by how effortlessly it scales,
-how securely it operates,
-and how beautifully it performs under pressure."
-
-🌐 Connect & Collaborate
-<div align="center"><a href="https://linkedin.com/in/mohitsatyarthii"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> </a><a href="https://mohitcreations.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/> </a><a href="mailto:mohitsatyarthi11@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a><a href="https://github.com/mohitsatyarthiii"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> </a></div>
 <div align="center">
-🚀 Open for CTO Advisory | System Architecture Consulting | High-Impact Engineering Collaborations
 
-"Commerce Graduate by degree. Engineer by passion. CTO by design."
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=mohitsatyarthiii&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&custom_title=GitHub%20Analytics"/>
+
+<img height="190em" src="https://streak-stats.demolab.com?user=mohitsatyarthiii&theme=tokyonight&hide_border=true"/>
+
+<br><br>
+
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitsatyarthiii&layout=compact&theme=tokyonight&hide_border=true&langs_count=10"/>
+
+</div>
+
+📈 Development Activity
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitsatyarthiii&theme=tokyo-night&hide_border=true&radius=16&area=true"/>
+
+</div>
+
+🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mohitsatyarthiii&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+📋 Development Insights
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohitsatyarthiii&theme=tokyonight"/>
+
+<br><br>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mohitsatyarthiii&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mohitsatyarthiii&theme=tokyonight"/>
+
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mohitsatyarthiii&theme=tokyonight"/>
+
+<br><br>
+
+<img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mohitsatyarthiii&theme=tokyonight&utcOffset=5.5"/>
+
+</div>
+
+
+
+# 🎯 Core Engineering Domains
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+### 🧠 AI Engineering
+
+* Large Language Models (LLMs)
+* Retrieval-Augmented Generation (RAG)
+* AI Agents & Agentic Workflows
+* Intelligent Search Systems
+* Recommendation Engines
+* Prompt Engineering
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⚙️ Backend Engineering
+
+* Scalable REST APIs
+* Distributed System Design
+* Authentication & Authorization
+* Database Architecture
+* Caching & Performance
+* Event-Driven Services
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🎨 Frontend & Mobile
+
+* React & Next.js
+* Flutter Applications
+* TypeScript Ecosystem
+* Responsive UI Systems
+* State Management
+* Performance Optimization
+
+</td>
+
+</tr>
+
+<tr>
+
+<td valign="top">
+
+### ☁️ Cloud & Infrastructure
+
+* Docker & Containers
+* Linux Servers
+* CI/CD Automation
+* Reverse Proxy & Nginx
+* Cloud Deployments
+* Monitoring & Reliability
+
+</td>
+
+<td valign="top">
+
+### 🗄️ Data & Storage
+
+* MongoDB
+* PostgreSQL
+* Redis
+* Data Modeling
+* Query Optimization
+* High-Performance Caching
+
+</td>
+
+<td valign="top">
+
+### 🔐 Security
+
+* JWT & OAuth
+* RBAC
+* API Security
+* Secure Authentication
+* Data Protection
+* Production Best Practices
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 💡 Engineering Philosophy
+
+```python
+class Engineer:
+
+    mission = "Build intelligent software that scales."
+
+    principles = [
+        "Architecture First",
+        "Performance by Default",
+        "Security Built-In",
+        "AI-Native Thinking",
+        "Developer Experience Matters",
+        "Keep Shipping"
+    ]
+
+    def build(self):
+        return (
+            "Design → Engineer → Automate → Scale"
+        )
+```
+
+---
+
+# 📡 Philosophy
+
+> **"The best systems are the ones users never have to think about.**
+>
+> **Reliable under pressure. Scalable by design. Simple by experience."**
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://linkedin.com/in/mohitsatyarthii">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://mohitcreations.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="mailto:mohitsatyarthi11@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/mohitsatyarthiii">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<div align="center">
+
+### 🚀 Open to collaborating on AI Platforms, System Architecture, Backend Engineering, and High-Impact Software Projects.
+
+*"Engineering products that are intelligent, scalable, and built to last."*
+
+</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:0f172a,25:312e81,50:7c3aed,75:9333ea,100:0f172a"/></div> 
