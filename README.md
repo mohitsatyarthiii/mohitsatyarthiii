@@ -77,49 +77,15 @@ Cross-Platform Mobile Solutions (Flutter)
 
 99.99% — Always shipping, always learning
 
-# ⚡ Tech Arsenal
+## ⚡ Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,nestjs,mongodb,postgres,mysql,redis"/>
 
-<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart,cpp,c"/>
+<br>
 
-<br><br>
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind,html,css,vite"/>
-
-<br><br>
-
-### ⚙️ Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,supabase"/>
-
-<br><br>
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis"/>
-
-<br><br>
-
-### ☁️ DevOps & Cloud
-
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,cloudflare,vercel,netlify,githubactions"/>
-
-<br><br>
-
-### 🛠️ Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,androidstudio"/>
-
-<br><br>
-
-### 🤖 AI & Automation
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=javascript,typescript,python,java,dart,docker,linux,github,vercel,figma"/>
 
 </div>
 
