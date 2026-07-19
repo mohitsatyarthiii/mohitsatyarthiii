@@ -80,6 +80,9 @@ Cross-Platform Mobile Solutions (Flutter)
 ## ⚡ Tech Arsenal
 
 <div align="center">
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1200&color=8B5CF6&center=true&vCenter=true&width=650&lines=Building+Scalable+Products;Engineering+Modern+Applications;AI+%E2%80%A2+Cloud+%E2%80%A2+Mobile+%E2%80%A2+Backend"/>
+</p>
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,express,nestjs,mongodb,postgres,mysql,redis"/>
 
