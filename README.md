@@ -1,5 +1,4 @@
 
-````md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f172a,25:312e81,50:7c3aed,75:9333ea,100:0f172a&text=MOHIT%20SATYARTHI&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Scalable%20AI%20Products%20%E2%80%A2%20System%20Architecture%20%E2%80%A2%20Full%20Stack%20Engineering&descAlignY=60"/>
